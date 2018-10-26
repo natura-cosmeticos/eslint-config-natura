@@ -1,7 +1,7 @@
 # Natura ESLint Configuration
 [![Known Vulnerabilities](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura/badge.svg)](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura)
 
-## For What
+## What for
 
 [ESLint](https://eslint.org/) rules to achieve better code, using Airbnb styles rules.
 
@@ -20,13 +20,15 @@ This project helps achieve the `good maintainability` need, offering a default l
 
 ## How to use
 
-To use this configuration install the package on your project:
+To use this configuration install the package on your project using either npm or yarn:
 
 ```bash
+npm i --save-dev 'eslint-config-natura'
+
 yarn add -D 'eslint-config-natura'
 ```
 
-Add the `natura` to the eslint `extends` option in the `.eslintrc` file:
+Add `natura` to the eslint `extends` option in the `.eslintrc` file:
 
 ```
 {
@@ -49,12 +51,12 @@ Add the `natura` to the eslint `extends` option in the `.eslintrc` file:
 }
 ```
 
-With the Natura ESLint config you don't need the airbnb-base, because the airbnb-base is already included.
+Airbnb-base is already included, no need to add it.
 
 ## How to contribute
 
-You can contribute submitting pull requests.
+You can contribute submitting [pull requests](https://github.com/natura-cosmeticos/eslint-config-natura/pulls).
 
 ### Setup
 
-Run `yarn install`.
+Run `yarn install` or if your use npm `npm install`.
