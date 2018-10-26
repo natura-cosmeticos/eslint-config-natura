@@ -1,4 +1,5 @@
 # Natura ESLint Configuration
+[![Known Vulnerabilities](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura/badge.svg)](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura)
 
 ## For What
 
