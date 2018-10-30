@@ -23,12 +23,12 @@ This project helps achieve the `good maintainability` need, offering a default l
 To use this configuration install the package on your project using either npm or yarn:
 
 ```bash
-npm i --save-dev 'eslint-config-natura'
+npm i --save-dev '@naturacosmeticos/eslint-config-natura'
 
-yarn add -D 'eslint-config-natura'
+yarn add -D '@naturacosmeticos/eslint-config-natura'
 ```
 
-Add `natura` to the eslint `extends` option in the `.eslintrc` file:
+Add `@naturacosmeticos/natura` to the eslint `extends` option in the `.eslintrc` file:
 
 ```
 {
@@ -37,7 +37,7 @@ Add `natura` to the eslint `extends` option in the `.eslintrc` file:
     "mocha": true,
     "node": true
   },
-  "extends": ["natura"],
+  "extends": ["@naturacosmeticos/natura"],
   "parserOptions": {
     "ecmaVersion": 2017
   },
@@ -59,4 +59,4 @@ You can contribute submitting [pull requests](https://github.com/natura-cosmetic
 
 ### Setup
 
-Run `yarn install` or if your use npm `npm install`.
+Run `yarn` or if your use npm `npm i`.
