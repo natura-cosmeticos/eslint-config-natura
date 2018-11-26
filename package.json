@@ -13,10 +13,8 @@
     "eslint-config-airbnb-base": "^13.1.0"
   },
   "scripts": {
-    "lint": "eslint src/ test/",
-    "lint:fix": "eslint --fix src/ test/",
-    "test": "mocha",
-    "test:watch": "mocha -w"
+    "lint": "eslint src/",
+    "lint:fix": "eslint --fix src/"
   },
   "contributors": [
     "Bruno Cartolari <cartola@vizir.com.br>",
