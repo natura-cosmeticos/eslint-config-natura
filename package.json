@@ -12,10 +12,6 @@
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0"
   },
-  "scripts": {
-    "lint": "eslint src/",
-    "lint:fix": "eslint --fix src/"
-  },
   "contributors": [
     "Bruno Cartolari <cartola@vizir.com.br>",
     "Daniel Arthaud <daniel@vizir.com.br>",
