@@ -1,9 +1,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/693bdf5edeec45c6b410be4e7418eda8)](https://www.codacy.com/app/handrus_1938/eslint-config-natura?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=natura-cosmeticos/eslint-config-natura&amp;utm_campaign=Badge_Grade)
-
+[![Build Status](https://travis-ci.org/natura-cosmeticos/eslint-config-natura.svg?branch=master)](https://travis-ci.org/natura-cosmeticos/eslint-config-natura)
 [![Known Vulnerabilities](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura/badge.svg?targetFile=package.json)](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura?targetFile=package.json)
 
 # Natura ESLint Configuration
-[![Known Vulnerabilities](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura/badge.svg)](https://snyk.io/test/github/natura-cosmeticos/eslint-config-natura)
 
 ## What for
 
