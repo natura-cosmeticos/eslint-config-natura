@@ -5,7 +5,6 @@ const mocharules = require('./src/mocha/rules');
 module.exports = {
   extends: ['airbnb-base'],
   plugins: ['mocha'],
-  rules,
-  mocharules,
+  rules: Object.assign(rules, mocharules),
   overrides,
 };

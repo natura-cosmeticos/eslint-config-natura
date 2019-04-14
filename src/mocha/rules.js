@@ -20,20 +20,20 @@
  *      Also, it can lead to the contained it blocks not being picked up.
  **/
 const rules = {
-    "mocha/handle-done-callback": "error",
-    "mocha/max-top-level-suites": "error",
-    "mocha/no-exclusive-tests": "error",
-    "mocha/no-global-tests": "error",
-    "mocha/no-hooks": "error",
-    "mocha/no-identical-title": "error",
-    "mocha/no-mocha-arrows": "error",
-    "mocha/no-nested-tests": "error",
-    "mocha/no-pending-tests": "warning",
-    "mocha/no-return-and-callback": "error",
-    "mocha/no-setup-in-describe": "error",
-    "mocha/no-skipped-tests": "error",
-    "mocha/prefer-arrow-callback": "error",
-    "mocha/no-async-describe": "error",
+    "mocha/handle-done-callback": 2,
+    "mocha/max-top-level-suites": 2,
+    "mocha/no-exclusive-tests": 2,
+    "mocha/no-global-tests": 2,
+    "mocha/no-hooks": 2,
+    "mocha/no-identical-title": 2,
+    "mocha/no-mocha-arrows": 2,
+    "mocha/no-nested-tests": 2,
+    "mocha/no-pending-tests": 1,
+    "mocha/no-return-and-callback": 2,
+    "mocha/no-setup-in-describe": 2,
+    "mocha/no-skipped-tests": 2,
+    "mocha/prefer-arrow-callback": 2,
+    "mocha/no-async-describe": 2,
 };
 
 module.exports = rules;
