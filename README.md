@@ -31,6 +31,8 @@ npm i --save-dev '@naturacosmeticos/eslint-config-natura'
 yarn add -D '@naturacosmeticos/eslint-config-natura'
 ```
 
+We recommend you to install accepting only new patch releases (ex: `~2.0.0`), once new minor releases could add new rules that can broke your pipeline.
+
 Add `@naturacosmeticos/natura` to the eslint `extends` option in the `.eslintrc` file:
 
 ```
