@@ -1,6 +1,6 @@
 {
   "name": "@naturacosmeticos/eslint-config-natura",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "Natura Cosméticos <TDDAArquitetura@natura.net>",
   "description": "[ESLint](https://eslint.org/) rules to achieve better code, using Airbnb styles rules.",
   "main": "index.js",
