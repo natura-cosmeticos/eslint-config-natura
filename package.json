@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "eslint": "^7.0.0",
-    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-mocha": "^5.3.0",
     "snyk": "^1.316.1"
   },
