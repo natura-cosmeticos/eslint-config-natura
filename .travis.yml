@@ -4,7 +4,8 @@ cache:
   directories:
     - node_modules
 node_js:
-  - 10
+  - "10"
+  - "12"
 install:
   - yarn
 script:
