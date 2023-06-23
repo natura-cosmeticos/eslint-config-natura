@@ -9,7 +9,7 @@
     "url": "git+ssh://git@github.com:natura-cosmeticos/eslint-config-natura.git"
   },
   "dependencies": {
-    "eslint": "^7.0.0",
+    "eslint": "^8.0.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-mocha": "^7.0.0",
     "snyk": "^1.316.1"
